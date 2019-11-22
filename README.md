@@ -11,6 +11,7 @@ A set of SVG maps that can be installed via [npm](https://www.npmjs.com) or [yar
 * 🇮🇳[India](packages/india)
 * 🇯🇵[Japan](packages/japan)
 * 🇳🇿[New Zealand](packages/new-zealand)
+* 🇷🇺[Russia](packages/russia)
 * 🇰🇷[South Korea](packages/south-korea)
 * 🇹🇼[Taiwan](packages/taiwan)
 * 🇹🇼[Taiwan, Main Island](packages/taiwan.main)
